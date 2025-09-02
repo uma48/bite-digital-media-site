@@ -4,7 +4,10 @@
 # production
 /.next
 /out
-
+.env
+.next
+dist
+build
 # misc
 .env.local
 .env.development.local
